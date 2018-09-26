@@ -1,6 +1,6 @@
-# pwa-sample
+# Progressive Web Apps - Sample - Brewdog's Beers
 
-> Demo project for PWA
+> Projet de démonstration pour illustrer un article de mon blog sur les Progressives Web Apps. 
 
 ## Build Setup
 
@@ -23,5 +23,3 @@ npm run unit
 # run all tests
 npm test
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
